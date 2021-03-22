@@ -6,7 +6,7 @@ public class Array {
         int [] arrays;
         arrays = new int[5];
 //
-//        arrays[0]= 56;
+//        arrays[0]= 56;gitgit
 //        arrays[1]= 11;
 //        arrays[2]= 10;
 //        arrays[3] =12;
