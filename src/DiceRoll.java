@@ -39,11 +39,16 @@ public class DiceRoll {
 //            System.out.println();
 //        }
 
-        String [] months = {"January", "February", "March", "April","May", "June","July","August","September","October","November","December"};
-        Scanner input = new Scanner(System.in);
-        System.out.println("Enter a number to select month");
-        int monthNumber = input.nextInt();
-
-        System.out.println("The month is " +months[monthNumber]);
+//        String [] months = {"January", "February", "March", "April","May", "June","July","August","September","October","November","December"};
+//        Scanner input = new Scanner(System.in);
+//        System.out.println("Enter a number to select month");
+//        int monthNumber = input.nextInt();
+//
+//        System.out.println("The month is " +months[monthNumber]);
+        int [] myLists = {1,2,3,46,7,8,89};
+        for (int e:myLists)
+              {
+                  System.out.println(e);
+        }
     }
 }
